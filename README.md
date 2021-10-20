@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veziop
-- 👀 I’m interested in ... computational design and generative art
+- 👀 I’m interested in ... computational design, generative art and backend development.
 - 🌱 I’m currently learning ... how GitHub works and Python 3 and many third party modules (BeautifulSoup, selenium, p5py, SpeechRecognition, pyttsx3, and a few others)
 - 💞️ I’m looking to collaborate on ... null (for now)
 - 📫 How to reach me ... thru GitHub!
