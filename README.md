@@ -1,5 +1,4 @@
 - Hi, I’m @veziop
 - I’m interested in ... computational design, generative art and backend development.
-- I’m currently learning ... Python 3 and many third party modules (BeautifulSoup, selenium, Django, SpeechRecognition, NumPy, and a few others)
-- I’m looking to collaborate on ... null (for now)
-- How to reach me ... thru GitHub or !
+- I’m currently learning ... Python 3, Django and it's related rest framework.
+- How to reach me ... thru GitHub or LinkedIn
