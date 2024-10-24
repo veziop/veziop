@@ -1,4 +1,4 @@
 - Hi, I’m @veziop
-- I’m interested in ... computational design, generative art and backend development.
-- I’m currently learning ... Python 3, Django and it's related rest framework.
-- How to reach me ... thru GitHub or LinkedIn
+- I’m interested in ... backend development and data engineering.
+- I’m currently learning ... advanced Python 3, FastAPI, Databricks, linux.
+- How to reach me ... through GitHub or LinkedIn
